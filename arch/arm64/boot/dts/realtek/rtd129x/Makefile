@@ -2,6 +2,7 @@ dtb-$(CONFIG_ARCH_RTD129x) += rtd-1295-giraffe-1GB.dtb
 dtb-$(CONFIG_ARCH_RTD129x) += rtd-1295-giraffe-1GB.SATA.dtb
 dtb-$(CONFIG_ARCH_RTD129x) += rtd-1295-giraffe-1.5GB.dtb
 dtb-$(CONFIG_ARCH_RTD129x) += rtd-1295-giraffe-2GB.dtb
+dtb-$(CONFIG_ARCH_RTD129x) += rtd-1295-lake1-2GB.dtb
 dtb-$(CONFIG_ARCH_RTD129x) += rtd-1295-qa-rescue.dtb
 dtb-$(CONFIG_ARCH_RTD129x) += rtd-1295-giraffe-rescue.dtb
 dtb-$(CONFIG_ARCH_RTD129x) += rtd-1295-monarch-1GB.dtb
